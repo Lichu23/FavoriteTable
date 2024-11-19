@@ -1,4 +1,6 @@
 
+Paso a paso de como lo resolvi:
+https://1drv.ms/w/c/273ed8975edf9f79/EdbmvQjvma9LmZHX9EIzCZYBl7Tr-DRpQaN_qZZinCrk_A?e=i3BB7E
 
 Acerca de esta prueba
 
