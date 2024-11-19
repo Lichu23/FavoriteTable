@@ -1,7 +1,6 @@
 
 Paso a paso de como lo resolvi:
-https://1drv.ms/w/c/273ed8975edf9f79/EdbmvQjvma9LmZHX9EIzCZYBl7Tr-DRpQaN_qZZinCrk_A?e=i3BB7E
-
+https://1drv.ms/w/c/273ed8975edf9f79/EdbmvQjvma9LmZHX9EIzCZYBl7Tr-DRpQaN_qZZinCrk_A?e=SezKyO
 Acerca de esta prueba
 
 Queremos saber su capacidad para crear una aplicación de una sola página moderna y funcional.
